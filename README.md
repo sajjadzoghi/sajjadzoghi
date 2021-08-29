@@ -14,7 +14,7 @@ working on my own two projects:</br>1- A Blog, which is a very professional blog
 * GitHub stats:  
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sjd1997&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sajjadzoghi&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a>  
 
 ## 🛠️ My Languages and Tools:
@@ -23,11 +23,11 @@ working on my own two projects:</br>1- A Blog, which is a very professional blog
 
 <p>
     <a href=""#""><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white"></a>
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white"></a>
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white"></a>
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white"></a>
+    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white"></a>
+    <a href=""#""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></a>
     <a href=""#""><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"></a>
     <a href=""#""><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"></a>
-    <a href=""#""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></a>
     <a href=""#""><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=amazon-dynamodb&logoColor=white"></a>
 </p>
 
