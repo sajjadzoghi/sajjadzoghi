@@ -43,8 +43,8 @@ working on my own two projects:</br>1- A Blog, which is a very professional blog
 
 <p>
     <a href="#"><img alt="JetBrains" src="https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains"></a>
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white"></a>
 </p>
