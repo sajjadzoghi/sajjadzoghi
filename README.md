@@ -1,4 +1,4 @@
-# Hi everyone :wave:
+# Hi Everyone :wave:
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sajjadzoghi)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajadzoghi/)
@@ -6,7 +6,7 @@
 
 
 </br>I'm a 24-year-old Python Back-End developer from Iran.
-I mainly code in Python and JavaScript, but I am always learning. I am currently
+I mainly code in Python and Django, but I am always learning. I am currently
 working on my own two projects:</br>1- A Blog, which is a very professional blog based on Flask framework and using MongoDB database.
 </br>2- An University Educational System, which is built using Django framework and sqlite3 database.
   
