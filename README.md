@@ -6,9 +6,9 @@
 
 
 </br>I'm a 24-year-old Python Back-End developer from Iran.
-I mainly code in Python and Django, but I am always learning. I am currently
+I mainly code in Django and Flask, but I am always learning. I am currently
 working on my own two projects:</br>1- A Blog, which is a very professional blog based on Flask framework and using MongoDB database.
-</br>2- An University Educational System, which is built using Django framework and sqlite3 database.
+</br>2- An E-Commerce System, which is built using Django framework, Rest-APIs over PostgreSQL database.
   
 ## Quick overview
 * GitHub stats:  
